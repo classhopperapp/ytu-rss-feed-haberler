@@ -27,5 +27,5 @@ jobs:
       - name: RSS Beslemesini Commit et
         run: |
           git add ytu_haberler.xml
-          git commit -m "RSS beslemesi güncellendi"
-          git push
+          git commit -m "RSS beslemesi güncellendi" || echo "Değişiklik yok"
+          git push || echo "Push için değişiklik yok veya hata yok"
