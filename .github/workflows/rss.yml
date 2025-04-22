@@ -20,10 +20,12 @@ jobs:
         run: pip install -r requirements.txt
       - name: RSS Scriptini Çalıştır
         run: python rss_generator.py
-      - name: RSS Dosyasını Commit Et
+      - name: Git'i Yapılandır
         run: |
           git config --local user.email "ebartan@gmail.com"
-          git config --local user.name "GitHub Action"
-          git add ytu_duyurular.xml
-          git commit -m "RSS dosyası güncellendi" || echo "Değişiklik yok"
+          git config --local user.name "ebartan"
+      - name: RSS Beslemesini Commit et
+        run: |
+          git add ytu_haberler.xml
+          git commit -m "RSS beslemesi güncellendi"
           git push
