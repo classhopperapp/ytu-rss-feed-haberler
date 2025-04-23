@@ -5,6 +5,14 @@
     <link>https://www.yildiz.edu.tr/universite/haberler</link>
     <description>Yıldız Teknik Üniversitesi Resmi Haberler</description>
     <item>
+      <title>23NisÖğrencilerimize Duyuru!</title>
+      <link>https://www.yildiz.edu.tr/universite/haberler/ogrencilerimize-duyuru</link>
+    </item>
+    <item>
+      <title>23NisAkademik ve İdari Personelimize Duyuru!</title>
+      <link>https://www.yildiz.edu.tr/universite/haberler/akademik-ve-idari-personelimize-duyuru</link>
+    </item>
+    <item>
       <title>22NisYenilenen ICARUS 25 Nisan'da görücüye çıkıyor</title>
       <link>https://www.yildiz.edu.tr/universite/haberler/yenilenen-icarus-25-nisanda-gorucuye-cikiyor</link>
     </item>
@@ -75,14 +83,6 @@
     <item>
       <title>29MarRektörümüz Prof. Dr. Eyüp DEBİK'in Bayram Tebriği</title>
       <link>https://www.yildiz.edu.tr/universite/haberler/rektorumuz-prof-dr-eyup-debikin-bayram-tebrigi</link>
-    </item>
-    <item>
-      <title>28MarYTÜ Yıldız ve Davutpaşa’da bayramlaşma</title>
-      <link>https://www.yildiz.edu.tr/universite/haberler/ytu-yildiz-ve-davutpasada-bayramlasma</link>
-    </item>
-    <item>
-      <title>26MarYTÜ’den afetler için 5G destekli İHA haberleşme çözümü</title>
-      <link>https://www.yildiz.edu.tr/universite/haberler/ytuden-afetler-icin-5g-destekli-iha-haberlesme-cozumu</link>
     </item>
   </channel>
 </rss>
