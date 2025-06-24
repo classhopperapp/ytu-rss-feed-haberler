@@ -5,6 +5,10 @@
     <link>https://www.yildiz.edu.tr/universite/haberler</link>
     <description>Yıldız Teknik Üniversitesi Resmi Haberler</description>
     <item>
+      <title>24HazMezuniyet Cübbeleri</title>
+      <link>https://www.yildiz.edu.tr/universite/haberler/mezuniyet-cubbeleri</link>
+    </item>
+    <item>
       <title>23HazMEB ve YTÜ Yıldız Teknopark’tan Eğitimde Dönüşüm Hamlesi</title>
       <link>https://www.yildiz.edu.tr/universite/haberler/meb-ve-ytu-yildiz-teknoparktan-egitimde-donusum-hamlesi</link>
     </item>
@@ -79,10 +83,6 @@
     <item>
       <title>28MaySanayide yeşil dönüşüm YTÜ’nün ev sahipliğinde ele alındı</title>
       <link>https://www.yildiz.edu.tr/universite/haberler/sanayide-yesil-donusum-ytunun-ev-sahipliginde-ele-alindi</link>
-    </item>
-    <item>
-      <title>27MayYTÜ’ye Avrupa Birliği’nden EIT Proje Desteği</title>
-      <link>https://www.yildiz.edu.tr/universite/haberler/ytuye-avrupa-birliginden-eit-proje-destegi</link>
     </item>
   </channel>
 </rss>
