@@ -5,6 +5,10 @@
     <link>https://www.yildiz.edu.tr/universite/haberler</link>
     <description>Yıldız Teknik Üniversitesi Resmi Haberler</description>
     <item>
+      <title>03EylYTÜ CERN’ün dev bilim projesi FCC’ye katıldı</title>
+      <link>https://www.yildiz.edu.tr/universite/haberler/ytu-cernun-dev-bilim-projesi-fccye-katildi</link>
+    </item>
+    <item>
       <title>02EylYTÜ’nün mikroiğne buluşu sanayinin hizmetinde</title>
       <link>https://www.yildiz.edu.tr/universite/haberler/ytunun-mikroigne-bulusu-sanayinin-hizmetinde</link>
     </item>
@@ -79,10 +83,6 @@
     <item>
       <title>25TemYTÜ 2025 Tanıtım Günleri Başladı</title>
       <link>https://www.yildiz.edu.tr/universite/haberler/ytu-2025-tanitim-gunleri-basladi</link>
-    </item>
-    <item>
-      <title>24TemYTÜ ve YTÜ Yıldız Teknopark olarak IDEF 2025’teyiz</title>
-      <link>https://www.yildiz.edu.tr/universite/haberler/ytu-ve-ytu-yildiz-teknopark-olarak-idef-2025teyiz</link>
     </item>
   </channel>
 </rss>
