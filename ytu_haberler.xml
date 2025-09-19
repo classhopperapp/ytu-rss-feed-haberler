@@ -5,6 +5,10 @@
     <link>https://www.yildiz.edu.tr/universite/haberler</link>
     <description>Yıldız Teknik Üniversitesi Resmi Haberler</description>
     <item>
+      <title>18EylTEKNOFEST’25’te Yıldız rüzgarı esiyor</title>
+      <link>https://www.yildiz.edu.tr/universite/haberler/teknofest25te-yildiz-ruzgari-esiyor</link>
+    </item>
+    <item>
       <title>18EylYTÜ’nün Parlayan Yıldızları TEKNOFEST Sahnesinde</title>
       <link>https://www.yildiz.edu.tr/universite/haberler/ytunun-parlayan-yildizlari-teknofest-sahnesinde</link>
     </item>
@@ -79,10 +83,6 @@
     <item>
       <title>07AğuÜniversitemizin akademik gücünü birlikte ileriye taşıyoruz!</title>
       <link>https://www.yildiz.edu.tr/universite/haberler/universitemizin-akademik-gucunu-birlikte-ileriye-tasiyoruz</link>
-    </item>
-    <item>
-      <title>07AğuYTÜ SolarBoat Takımı'ndan Yerli ve Otonom Deniz Teknolojilerine Çifte Hamle</title>
-      <link>https://www.yildiz.edu.tr/universite/haberler/ytu-solarboat-takimindan-yerli-ve-otonom-deniz-teknolojilerine-cifte-hamle</link>
     </item>
   </channel>
 </rss>
