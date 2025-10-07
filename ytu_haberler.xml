@@ -5,6 +5,10 @@
     <link>https://www.yildiz.edu.tr/universite/haberler</link>
     <description>Yıldız Teknik Üniversitesi Resmi Haberler</description>
     <item>
+      <title>07EkiKanserde Beslenme ve Doğal Yaklaşımlar YTÜ’de Masaya Yatırılacak</title>
+      <link>https://www.yildiz.edu.tr/universite/haberler/kanserde-beslenme-ve-dogal-yaklasimlar-ytude-masaya-yatirilacak</link>
+    </item>
+    <item>
       <title>06EkiMeta ve YTÜ’den Öğrenciler için Yapay Zeka Hackathonu</title>
       <link>https://www.yildiz.edu.tr/universite/haberler/meta-ve-ytuden-ogrenciler-icin-yapay-zeka-hackathonu</link>
     </item>
@@ -79,10 +83,6 @@
     <item>
       <title>03EylYTÜ CERN’ün dev bilim projesi FCC’ye katıldı</title>
       <link>https://www.yildiz.edu.tr/universite/haberler/ytu-cernun-dev-bilim-projesi-fccye-katildi</link>
-    </item>
-    <item>
-      <title>02EylYTÜ’nün mikroiğne buluşu sanayinin hizmetinde</title>
-      <link>https://www.yildiz.edu.tr/universite/haberler/ytunun-mikroigne-bulusu-sanayinin-hizmetinde</link>
     </item>
   </channel>
 </rss>
